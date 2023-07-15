@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinmuhammad1994&label=Profile%20views&color=0e75b6&style=flat" alt="dinmuhammad1994" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinmuhammad1994" alt="dinmuhammad1994" /></a> </p>
-
 - 🔭 I’m currently working as [Founder & CEO @Projexels](www.projexels.com)
 
 - 👯 I’m looking to collaborate on **companies working on hardware based product development**
@@ -15,7 +13,6 @@
 
 - 📫 How to reach me **dinmuhammad1994@gmail.com || dinmuhammad@projexels.com**
 
-- 📄 Know about my experiences, visit my linkedin profile [https://www.linkedin.com/in/dinmuhamnad/](https://www.linkedin.com/in/dinmuhamnad/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
