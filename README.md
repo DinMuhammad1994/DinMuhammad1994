@@ -24,4 +24,4 @@ You can reach out to me through the following channels:
 
 Visit my company website, [Projexels](https://www.projexels.com), for more information.
 
-Feel free to customize the content and style as per your preferences. Once you're satisfied with the changes, create a GitHub repository with the README.md file and follow the steps provided earlier to display it on your GitHub profile.
+
