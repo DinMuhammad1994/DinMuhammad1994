@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinmuhammad1994&label=Profile%20views&color=0e75b6&style=flat" alt="dinmuhammad1994" /> </p>
 
-- 🔭 I’m currently working as [Founder & CEO @Projexels](www.projexels.com)
+- 🔭 I’m currently working as [Founder @Projexels](www.projexels.com)
 
 - 👯 I’m looking to collaborate on **companies working on hardware based product development**
 
